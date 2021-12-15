@@ -1,1 +1,1 @@
-# Annoying-People-Counter
+# Just for some friends
